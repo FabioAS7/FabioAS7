@@ -18,7 +18,7 @@
 </div>
 <br/>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAS7&layout=donut)](https://github.com/FabioAS7/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioAS7&layout=donut)]()
 
 ## Certificações / Atividades Extracurriculares / Trabalhos:
 
