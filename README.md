@@ -26,5 +26,6 @@
 - [Atividades Extracurriculares](https://drive.google.com/drive/folders/116Xm-Dedo7dO1f72NRtRPoO6PJCKP8Rg?usp=drive_link)
 - [TCCs / Trabalhos](https://drive.google.com/drive/folders/1jjtvenm4MGsHVJQS2eKqsuUdG1MXHky1?usp=drive_link)
 
+
 [//]: # 'https://dev.to/envoy_/150-badges-for-github-pnk'
 [//]: # 'https://github.com/anuraghazra/github-readme-stats'
